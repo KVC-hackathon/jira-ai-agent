@@ -1,8 +1,8 @@
-##### confluence
+### confluence
 Mocking Confluence data
 
-##### feature-request
+### feature-request
 Mocking feature request tickets
 
-##### normal-tickets
+### normal-tickets
 Mocking normal tickets that can be linked to Confluence pages
