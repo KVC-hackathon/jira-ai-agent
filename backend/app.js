@@ -12,6 +12,11 @@ app.get('/', (req, res) => {
     res.send('KVC-Hackathon Backend is running!');
 });
 
+app.listen(port, () => {
+    console.log(`App listening on port http://localhost:${port}`);
+});
+
+
 // Feature request endpoint
 app.get('/feature_request', async (req, res) => {
     try {
@@ -31,9 +36,6 @@ app.get('/feature_request', async (req, res) => {
     }
 });
 
-app.listen(port, () => {
-    console.log(`App listening on port http://localhost:${port}`);
-});
 
 // Import endpoint
 app.post('/import', async (req, res) => {

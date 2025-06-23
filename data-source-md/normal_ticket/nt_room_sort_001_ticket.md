@@ -1,0 +1,8 @@
+---
+title: nt_room_sort_001_ticket
+original_file: normal_ticket/nt_room_sort_001.json
+created_at: 2025-06-24 00:10:29
+---
+
+```json
+{ "id": "nt-room-sort-001", "title": "Sort theo thời gian sử dụng không chính xác", "description": "Chức năng sắp xếp phòng bàn theo thời gian sử dụng đang sort theo thời gian tạo đơn thay vì thời gian bắt đầu sử dụng bàn thực tế. Điều này khiến thứ tự không phản ánh đúng bàn nào đã sử dụng lâu nhất. Cần fix logic sort để dựa trên start_time của session.", "status": "open", "created_at": "2023-10-05T10:15:00Z", "author": "Lê Sort Developer", "documentation_related": ["conf-room-management-001"], "type": "ticket", "url": "https://jira.company.com/ticket/room-sort-001" }```

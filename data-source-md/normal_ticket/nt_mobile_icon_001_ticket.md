@@ -1,0 +1,8 @@
+---
+title: nt_mobile_icon_001_ticket
+original_file: normal_ticket/nt_mobile_icon_001.json
+created_at: 2025-06-24 00:10:29
+---
+
+```json
+{ "id": "nt-mobile-icon-001", "title": "Mobile POS - Icon cảnh báo không hiển thị đúng trên iOS", "description": "Icon cảnh báo lỗi chế biến không hiển thị hoặc bị lệch vị trí trên các thiết bị iOS, đặc biệt là iPhone với notch. Icon bị che khuất bởi status bar hoặc không align đúng với layout của cell trong danh sách phòng bàn.", "status": "open", "created_at": "2023-10-16T14:30:00Z", "author": "Nguyễn Văn iOS Dev", "documentation_related": ["conf-pos-mobile-001", "conf-pos-ui-001"], "type": "ticket", "url": "https://jira.company.com/ticket/mobile-icon-001" }```
