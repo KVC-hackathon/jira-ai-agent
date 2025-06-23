@@ -29,16 +29,7 @@ find "$SOURCE_DIR" -type f -name "*.json" | while read -r json_file; do
     target_file="$target_dir/$base_name.md"
     
     # Copy the content (converting from JSON to MD)
-    echo "---" > "$target_file"
-    echo "title: $base_name" >> "$target_file"
-    echo "original_file: $rel_path" >> "$target_file"
-    echo "created_at: $(date +'%Y-%m-%d %H:%M:%S')" >> "$target_file"
-    echo "---" >> "$target_file"
-    echo "" >> "$target_file"
-    echo '```json' >> "$target_file"
-    cat "$json_file" >> "$target_file"
-    echo '```' >> "$target_file"
-    
+    cat "$json_file" >> "$target_file"    
     echo "Converted: $json_file -> $target_file"
 done
 

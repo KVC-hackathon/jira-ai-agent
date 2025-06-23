@@ -1,10 +1,3 @@
----
-title: update_quantity_in_cart_ticket
-original_file: normal_ticket/shoping_cart/update_quantity_in_cart_ticket.json
-created_at: 2025-06-24 00:10:29
----
-
-```json
 {
   "id": "nt-cart-002",
   "title": "Enable Quantity Update in Cart",
@@ -19,4 +12,3 @@ created_at: 2025-06-24 00:10:29
   "url": "https://sample.com/ticket/nt-cart-002",
   "type": "ticket"
 }
-```

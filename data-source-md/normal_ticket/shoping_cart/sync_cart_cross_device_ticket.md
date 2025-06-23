@@ -1,10 +1,3 @@
----
-title: sync_cart_cross_device_ticket
-original_file: normal_ticket/shoping_cart/sync_cart_cross_device_ticket.json
-created_at: 2025-06-24 00:10:29
----
-
-```json
 {
   "id": "nt-cart-003",
   "title": "Sync Shopping Cart Across Devices",
@@ -19,4 +12,3 @@ created_at: 2025-06-24 00:10:29
   "url": "https://sample.com/ticket/nt-cart-003",
   "type": "ticket"
 }
-```

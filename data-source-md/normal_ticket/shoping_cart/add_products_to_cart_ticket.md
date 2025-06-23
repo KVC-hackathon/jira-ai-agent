@@ -1,10 +1,3 @@
----
-title: add_products_to_cart_ticket
-original_file: normal_ticket/shoping_cart/add_products_to_cart_ticket.json
-created_at: 2025-06-24 00:10:29
----
-
-```json
 {
   "id": "nt-cart-001",
   "title": "Implement Add to Cart Functionality",
@@ -19,4 +12,3 @@ created_at: 2025-06-24 00:10:29
   "url": "https://sample.com/ticket/nt-cart-001",
   "type": "ticket"
 }
-```

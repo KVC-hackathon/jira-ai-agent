@@ -1,10 +1,3 @@
----
-title: otp_verify_confluence
-original_file: confluence/otp/otp_verify_confluence.json
-created_at: 2025-06-24 00:10:29
----
-
-```json
 {
     "id": "conf-otp-001",
     "title": "OTP Verification Feature Design",
@@ -14,4 +7,4 @@ created_at: 2025-06-24 00:10:29
     "type": "confluence",
     "url": "https://jira.com/confluence/01"
   }
-  ```
+  

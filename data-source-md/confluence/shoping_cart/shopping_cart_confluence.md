@@ -1,10 +1,3 @@
----
-title: shopping_cart_confluence
-original_file: confluence/shoping_cart/shopping_cart_confluence.json
-created_at: 2025-06-24 00:10:29
----
-
-```json
 {
   "id": "conf-cart-001",
   "title": "Shopping Cart Feature Specification",
@@ -14,4 +7,3 @@ created_at: 2025-06-24 00:10:29
   "type": "confluence",
   "url": "https://jira.com/confluence/02"
 }
-```
