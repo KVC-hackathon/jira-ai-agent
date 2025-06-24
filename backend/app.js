@@ -1,10 +1,16 @@
 const express = require("express");
 const { status } = require("express/lib/response");
+const cors = require('cors');
 const app = express();
 const port = 2525;
 const importRepository = require('./repository/import_repository');
 const featureRequestRepository = require('./repository/feature_request_repository');
 const axios = require('axios');
+
+// Enable CORS for all origins
+app.use(cors({
+  origin: '*', // Allow any origin
+}));
 
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
@@ -223,5 +229,11 @@ function unescapeJSONString(str) {
     }
   }
   
-  return unescaped;
+  // Try to parse the string as JSON directly
+  try {
+    return JSON.parse(str);
+  } catch (e) {
+    console.warn('Failed to parse string as JSON, returning original string');
+    return str;
+  }
 }
