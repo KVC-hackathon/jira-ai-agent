@@ -1,0 +1,9 @@
+{
+  "id": "conf-fnb-split-merge-001",
+  "title": "Quy trình Tách/Ghép Đơn và Bàn F&B",
+  "content": "Hướng dẫn chi tiết quy trình tách ghép đơn hàng và bàn trong môi trường nhà hàng.\n\n**Tách đơn (Split Bill):**\n- **Use case**: Nhóm khách muốn thanh toán riêng từng người\n- **Quy trình**:\n  1. Chọn đơn hàng cần tách\n  2. Chọn các món ăn cho từng bill con\n  3. Hệ thống tự động tính toán lại thuế, service charge\n  4. Tạo bill ID mới cho từng phần tách\n  5. In bill riêng biệt\n\n**Ghép đơn (Merge Bill):**\n- **Use case**: Ghép các bàn nhỏ thành tiệc lớn\n- **Quy trình**:\n  1. Chọn các đơn hàng cần ghép\n  2. Kiểm tra conflict (khuyến mãi, voucher)\n  3. Merge các món ăn và tính toán lại\n  4. Cập nhật thông tin bàn chính\n  5. Hủy các bill phụ\n\n**Tách/ghép bàn:**\n- **Tách bàn**: Chia nhóm lớn thành nhiều bàn nhỏ\n- **Ghép bàn**: Kết hợp bàn nhỏ cho nhóm lớn\n- **Cập nhật floor plan**: Thay đổi sơ đồ bàn real-time\n- **Thông báo kitchen**: Cập nhật thông tin bàn mới\n\n**Business Rules:**\n- Chỉ tách được đơn chưa thanh toán\n- Không ghép được đơn có voucher khác nhau\n- Cần quyền đặc biệt để thao tác\n- Phải có lý do rõ ràng cho mỗi thao tác\n\n**Xử lý lỗi:**\n- Rollback nếu thao tác thất bại\n- Thông báo lỗi rõ ràng cho nhân viên\n- Log chi tiết cho debug\n- Backup data trước khi thao tác\n\n**Báo cáo:**\n- Thống kê số lần tách/ghép theo ca\n- Nhân viên nào thao tác nhiều nhất\n- Impact đến doanh thu và customer experience",
+  "author": "Trần Thị Linh - Business Analyst",
+  "created_at": "2023-09-12T14:30:00Z",
+  "type": "confluence",
+  "url": "https://kiotviet.com/confluence/fnb-split-merge-001"
+}
