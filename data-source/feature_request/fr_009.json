@@ -1,0 +1,9 @@
+{
+  "id": "fr-table-time-layout-001",
+  "title": "Chế độ sắp xếp phòng bàn theo thời gian sử dụng",
+  "description": "Phát triển giao diện quản lý bàn với khả năng sắp xếp theo thời gian sử dụng: bàn mới mở, bàn sử dụng lâu nhất, bàn sắp hết giờ (cho billiards/karaoke). Màu sắc bàn thay đổi theo thời gian: xanh (mới), vàng (1-2h), đỏ (>2h). Cảnh báo tự động cho bàn quá giờ để nhân viên xử lý kịp thời.",
+  "summary": "Quản lý bàn theo timeline với cảnh báo thời gian",
+  "status": "open",
+  "created_at": "2023-11-21T10:45:00Z",
+  "author": "Bùi Văn Dũng"
+}

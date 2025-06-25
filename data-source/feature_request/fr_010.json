@@ -1,0 +1,9 @@
+{
+  "id": "fr-takeaway-label-001",
+  "title": "In tem nhãn tự động với đơn mang về",
+  "description": "Tích hợp tính năng in tem nhãn tự động cho đơn hàng mang về/delivery. Tem bao gồm: tên món, số lượng, tên khách hàng, số điện thoại, thời gian đặt, ghi chú đặc biệt. Hỗ trợ nhiều loại máy in tem (Brother, Zebra) và template có thể tùy chỉnh. Tự động in khi xác nhận đơn hàng takeaway.",
+  "summary": "In tem nhãn tự động cho đơn takeaway/delivery",
+  "status": "open",
+  "created_at": "2023-11-23T14:20:00Z",
+  "author": "Lý Thị Nga"
+}
