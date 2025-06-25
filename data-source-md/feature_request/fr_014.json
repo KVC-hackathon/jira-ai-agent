@@ -1,0 +1,9 @@
+{
+  "id": "fr-pos-android-001",
+  "title": "Cải tiến ứng dụng POS Android với tính năng mới",
+  "description": "Nâng cấp app POS Android với giao diện mới, hỗ trợ màn hình lớn, thao tác multi-touch, và tích hợp camera để scan QR voucher. Thêm chế độ offline hoàn toàn, đồng bộ tự động khi có mạng. Tối ưu hiệu suất cho máy cấu hình thấp, hỗ trợ in bluetooth và USB đồng thời.",
+  "summary": "Nâng cấp toàn diện POS Android với UX mới",
+  "status": "open",
+  "created_at": "2023-12-01T11:25:00Z",
+  "author": "Trịnh Văn Nam"
+}
