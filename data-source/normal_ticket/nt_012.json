@@ -1,0 +1,11 @@
+{
+  "id": "nt-combo-pricing-error-001",
+  "title": "Tính giá combo sai khi khách thay đổi món trong combo",
+  "description": "Khi khách hàng đổi món trong combo (ví dụ: đổi cơm thành bún), hệ thống không tính đúng phụ phí. Giá combo vẫn giữ nguyên dù món thay thế có giá cao hơn. Business rule cần được cập nhật để tính chênh lệch giá khi substitute items trong combo.",
+  "status": "open",
+  "created_at": "2023-12-02T09:35:00Z",
+  "author": "Lê Thị Hương",
+  "documentation_related": ["conf-combo-upselling-001"],
+  "type": "ticket",
+  "url": "https://kiotviet.com/ticket/combo-pricing-error-001"
+}
