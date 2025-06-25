@@ -1,0 +1,11 @@
+{
+  "id": "nt-upselling-not-working-001",
+  "title": "Tính năng gợi ý upselling không hiển thị trên POS Android",
+  "description": "Chức năng gợi ý món để đạt mức khuyến mãi không hiển thị trên ứng dụng POS Android, chỉ hoạt động trên web POS. Nhân viên sử dụng tablet không thấy được suggestions dẫn đến mất cơ hội tăng doanh thu. Cần kiểm tra API call và UI rendering trên mobile app.",
+  "status": "open",
+  "created_at": "2023-11-18T10:25:00Z",
+  "author": "Ngô Văn Thành",
+  "documentation_related": ["conf-promotion-smart-001"],
+  "type": "ticket",
+  "url": "https://kiotviet.com/ticket/upselling-not-working-001"
+}

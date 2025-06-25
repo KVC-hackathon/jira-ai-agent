@@ -1,0 +1,11 @@
+{
+  "id": "nt-kitchen-report-inaccurate-001",
+  "title": "Báo cáo hiệu suất bếp hiển thị số liệu không chính xác",
+  "description": "Dashboard báo cáo bếp showing sai số món đã hoàn thành và thời gian trung bình. Khi so với thực tế, số liệu chênh lệch 15-20%. Có khả năng data aggregation logic có bug hoặc timezone handling không đúng. Ảnh hưởng đến việc đánh giá performance của kitchen staff.",
+  "status": "open",
+  "created_at": "2023-12-04T13:50:00Z",
+  "author": "Hoàng Minh Tuấn",
+  "documentation_related": ["conf-kitchen-display-001"],
+  "type": "ticket",
+  "url": "https://kiotviet.com/ticket/kitchen-report-inaccurate-001"
+}
