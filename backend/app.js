@@ -94,6 +94,7 @@ app.get('/feature_request/:id/generate', async (req, res) => {
 Tất cả trả về theo định dạng json, sample:
 
 {
+  "title": "Feature request title",
   "feature_request_description": "Feature request description",
   "feature_request_subtask": [
     {
