@@ -70,6 +70,7 @@ Tôi nhận được feature request sau:
 Tất cả trả về theo định dạng json, sample:
 
 {
+  "feature_request_title": "Feature request title",
   "feature_request_description": "Feature request description",
   "feature_request_subtask": [
     {
