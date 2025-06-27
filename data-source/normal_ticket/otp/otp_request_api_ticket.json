@@ -9,5 +9,9 @@
     "conf-otp-001"
   ],
   "type": "ticket",
-  "url": "https://jira.com/ticket/02"
+  "url": "https://jira.com/ticket/02",
+  "module": "Authentication",
+  "priority": "High",
+  "merchant_name": "KV Chain",
+  "package_type": "Standard"
 }
