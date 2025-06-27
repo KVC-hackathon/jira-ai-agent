@@ -1,4 +1,4 @@
-# KVC Hackathon Project
+# Jira AI agent
 
 ## Overview
 
