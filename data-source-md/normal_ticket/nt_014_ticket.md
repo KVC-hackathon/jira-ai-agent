@@ -1,0 +1,15 @@
+{
+  "id": "nt-table-merge-failed-001",
+  "title": "Không thể ghép bàn khi một trong các bàn có đơn đang pending",
+  "description": "Khi cố gắng ghép 2 bàn có đơn hàng, nếu một bàn có món đang trong trạng thái 'pending' (chưa confirm), hệ thống báo lỗi và không cho phép merge. Tuy nhiên error message không rõ ràng, nhân viên không biết cần làm gì để resolve. Cần improve UX và error handling.",
+  "status": "open",
+  "created_at": "2023-12-06T15:25:00Z",
+  "author": "Trần Thị Linh",
+  "documentation_related": ["conf-fnb-split-merge-001"],
+  "type": "ticket",
+  "url": "https://kiotviet.com/ticket/table-merge-failed-001",
+  "module": "F&B",
+  "priority": "trung bình",
+  "merchant_name": "Nhà hàng Á Đông Palace",
+  "package_type": "professional"
+}

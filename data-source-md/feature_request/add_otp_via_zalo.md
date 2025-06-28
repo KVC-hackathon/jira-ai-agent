@@ -5,5 +5,10 @@
   "summary": "Enable OTP delivery through Zalo OA",
   "status": "open",
   "created_at": "2023-10-10T14:00:00Z",
-  "author": "Linh Vu"
+  "author": "Linh Vu",
+  "module": "Authentication",
+  "priority": "High",
+  "merchant_name": "KV Chain",
+  "package_type": "Enterprise",
+  "impact_scope": "All users with Zalo accounts"
 }

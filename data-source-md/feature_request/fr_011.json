@@ -1,9 +1,0 @@
-{
-  "id": "fr-time-promotion-001",
-  "title": "Chương trình khuyến mãi tự động theo thời gian",
-  "description": "Tạo hệ thống khuyến mãi tự động kích hoạt theo khung thời gian: happy hour (14h-17h giảm 20%), combo trưa (11h-14h), khuyến mãi cuối tuần. Hệ thống tự động áp dụng và hiển thị khuyến mãi phù hợp trên POS. Có thể set khuyến mãi theo ngày trong tuần, theo tháng, theo mùa vụ.",
-  "summary": "Khuyến mãi tự động theo khung thời gian định trước",
-  "status": "open",
-  "created_at": "2023-11-25T16:35:00Z",
-  "author": "Cao Minh Hải"
-}

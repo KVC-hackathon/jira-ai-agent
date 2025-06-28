@@ -1,9 +1,0 @@
-{
-  "id": "fr-combo-management-001",
-  "title": "Hệ thống quản lý combo meal thông minh",
-  "description": "Tạo công cụ tạo và quản lý combo meal linh hoạt: combo cố định, combo tự chọn, combo theo mùa. Khách có thể tùy chỉnh combo trong giới hạn cho phép (đổi món, thêm/bớt topping). Hệ thống tự động tính giá ưu đãi, quản lý tồn kho của từng thành phần trong combo, và báo cáo hiệu quả bán combo.",
-  "summary": "Quản lý combo meal với customization linh hoạt",
-  "status": "open",
-  "created_at": "2023-12-03T13:50:00Z",
-  "author": "Lê Thị Hương" 
-}

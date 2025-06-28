@@ -1,0 +1,15 @@
+{
+  "id": "nt-label-printer-jam-001",
+  "title": "Xử lý lỗi máy in tem bị kẹt giấy cho đơn takeaway",
+  "description": "Khi máy in tem Brother bị kẹt giấy, hệ thống không có cơ chế retry hoặc alert. Đơn takeaway bị miss tem dẫn đến confusion trong kitchen và delay giao hàng. Cần implement error detection, retry mechanism, và fallback sang máy in khác nếu có.",
+  "status": "open",
+  "created_at": "2023-11-28T16:45:00Z",
+  "author": "Lý Thị Nga",
+  "documentation_related": ["conf-takeaway-labeling-001"],
+  "type": "ticket",
+  "url": "https://kiotviet.com/ticket/label-printer-jam-001",
+  "module": "F&B",
+  "priority": "cao",
+  "merchant_name": "Chuỗi fastfood Lotteria",
+  "package_type": "professional"
+}

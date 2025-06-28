@@ -1,0 +1,9 @@
+{
+  "id": "conf-fnb-shift-end-001",
+  "title": "Hệ thống Kết Ca cho F&B và Billiards",
+  "content": "Tài liệu mô tả quy trình kết ca chuyên biệt cho nhà hàng, cafe và billiards.\n\n**Kết ca nhà hàng thông thường:**\n- **Thông tin ca làm việc**: Giờ vào, giờ ra, nhân viên ca\n- **Doanh thu ca**: Tiền mặt, chuyển khoản, thẻ, voucher\n- **Chi phí ca**: Hoàn trả, giảm giá, hủy món\n- **Tồn quỹ**: Tiền đầu ca, cuối ca, chênh lệch\n- **Báo cáo tổng hợp**: PDF/Excel export\n\n**Kết ca billiards/karaoke đặc biệt:**\n- **Tính giờ chơi**: Thời gian bắt đầu, kết thúc từng bàn\n- **Giá theo khung giờ**: Sáng, chiều, tối, đêm\n- **Dịch vụ kèm**: Đồ uống, đồ ăn, thuốc lá\n- **Phụ thu**: Giờ cao điểm, ngày lễ\n- **Discount**: Thành viên VIP, happy hour\n\n**Quy trình kết ca:**\n1. **Kiểm tra đơn hàng**: Đảm bảo tất cả đơn đã thanh toán\n2. **Tính toán doanh thu**: Theo từng phương thức thanh toán\n3. **Đối chiếu tiền mặt**: So với số tiền thực tế trong két\n4. **Xuất phiếu kết ca**: In phiếu chi tiết\n5. **Bàn giao ca**: Cho ca tiếp theo hoặc quản lý\n\n**Tích hợp hệ thống:**\n- **POS**: Đồng bộ dữ liệu bán hàng\n- **Billiard timer**: Lấy dữ liệu thời gian chơi\n- **Kitchen**: Thống kê món hủy/trả\n- **Accounting**: Sync với hệ thống kế toán\n\n**Báo cáo và phân tích:**\n- So sánh doanh thu các ca\n- Hiệu suất nhân viên theo ca\n- Trend doanh thu theo giờ\n- Tỷ lệ sử dụng bàn billiards\n\n**Xử lý ngoại lệ:**\n- Ca bị gián đoạn (mất điện, hệ thống lỗi)\n- Chênh lệch tiền mặt quá lớn\n- Đơn hàng bị lỗi hoặc tranh chấp\n- Backup và recovery data",
+  "author": "Lê Văn Hưng - Trưởng nhóm F&B",
+  "created_at": "2023-09-18T11:20:00Z",
+  "type": "confluence",
+  "url": "https://kiotviet.com/confluence/fnb-shift-end-001"
+}

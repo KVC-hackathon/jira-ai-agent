@@ -1,9 +1,0 @@
-{
-  "id": "fr-seat-analytics-001",
-  "title": "Thống kê và phân tích lượng ghế của bàn",
-  "description": "Phát triển báo cáo phân tích hiệu suất sử dụng ghế: tỷ lệ lấp đầy theo khung giờ, bàn nào được ưa chuộng nhất, thời gian trung bình khách ngồi. Giúp tối ưu hóa bố trí bàn ghế, xác định khung giờ vàng, và đưa ra chiến lược pricing phù hợp. Báo cáo theo ngày/tuần/tháng với biểu đồ trực quan.",
-  "summary": "Analytics chi tiết về hiệu suất sử dụng bàn ghế",
-  "status": "open",
-  "created_at": "2023-11-27T12:15:00Z",
-  "author": "Đinh Văn Cường"
-}

@@ -1,9 +1,0 @@
-{
-  "id": "fr-payment-voucher-001",
-  "title": "Sử dụng voucher như hình thức thanh toán",
-  "description": "Phát triển tính năng cho phép khách hàng sử dụng voucher như một phương thức thanh toán độc lập. Khách có thể thanh toán hoàn toàn bằng voucher hoặc kết hợp voucher + tiền mặt/chuyển khoản. Hệ thống kiểm tra tính hợp lệ, thời hạn sử dụng, và tự động trừ giá trị voucher. Hỗ trợ voucher QR code để tiện lợi.",
-  "summary": "Thanh toán bằng voucher với validation tự động",
-  "status": "open",
-  "created_at": "2023-11-15T13:25:00Z",
-  "author": "Vũ Thị Hồng"
-}

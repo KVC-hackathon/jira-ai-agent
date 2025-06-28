@@ -1,9 +1,0 @@
-{
-  "id": "fr-fnb-preorder-001",
-  "title": "Tính năng order trước thời gian sử dụng", 
-  "description": "Cho phép khách hàng đặt món trước thời gian đến nhà hàng hoặc đặt trước cho các bữa tiệc. Khách có thể chọn thời gian giao món, thời gian phục vụ cụ thể. Hệ thống sẽ tự động nhắc nhở bếp chuẩn bị món theo thời gian đã đặt. Tích hợp với hệ thống quản lý bàn để đảm bảo bàn trống đúng giờ.",
-  "summary": "Đặt món trước với thời gian phục vụ cụ thể",
-  "status": "open", 
-  "created_at": "2023-11-11T09:20:00Z",
-  "author": "Phạm Thị Mai"
-}
