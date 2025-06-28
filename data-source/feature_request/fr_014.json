@@ -5,5 +5,10 @@
   "summary": "Nâng cấp toàn diện POS Android với UX mới",
   "status": "open",
   "created_at": "2023-12-01T11:25:00Z",
-  "author": "Trịnh Văn Nam"
+  "author": "Trịnh Văn Nam",
+  "module": "POS",
+  "priority": "cao",
+  "merchant_name": "Siêu thị Coopmart",
+  "package_type": "professional",
+  "impact_scope": "chuỗi_cửa_hàng"
 }
