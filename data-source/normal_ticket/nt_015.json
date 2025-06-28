@@ -7,5 +7,9 @@
   "author": "Đặng Thị Lan",
   "documentation_related": ["conf-tracking-audit-001"],
   "type": "ticket",
-  "url": "https://kiotviet.com/ticket/token-tracking-inconsistent-001"
+  "url": "https://kiotviet.com/ticket/token-tracking-inconsistent-001",
+  "module": "POS",
+  "priority": "thấp",
+  "merchant_name": "Chuỗi nhà hàng Gogi House",
+  "package_type": "enterprise"
 }
