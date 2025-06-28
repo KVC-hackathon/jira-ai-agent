@@ -7,5 +7,9 @@
   "author": "Trịnh Văn Nam",
   "documentation_related": ["conf-pos-android-advanced-001"],
   "type": "ticket",
-  "url": "https://kiotviet.com/ticket/pos-android-crash-001"
+  "url": "https://kiotviet.com/ticket/pos-android-crash-001",
+  "module": "POS",
+  "priority": "nghiêm trọng",
+  "merchant_name": "Siêu thị Coopmart",
+  "package_type": "professional"
 }
