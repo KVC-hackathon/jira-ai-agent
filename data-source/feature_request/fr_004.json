@@ -5,5 +5,10 @@
   "summary": "Đặt món trước với thời gian phục vụ cụ thể",
   "status": "open", 
   "created_at": "2023-11-11T09:20:00Z",
-  "author": "Phạm Thị Mai"
+  "author": "Phạm Thị Mai",
+  "module": "F&B",
+  "priority": "cao",
+  "merchant_name": "Nhà hàng tiệc cưới Riverside",
+  "package_type": "professional",
+  "impact_scope": "đơn_chi_nhánh"
 }
