@@ -7,5 +7,9 @@
   "author": "Hoàng Minh Tuấn",
   "documentation_related": ["conf-kitchen-display-001"],
   "type": "ticket",
-  "url": "https://kiotviet.com/ticket/kitchen-display-timeout-001"
+  "url": "https://kiotviet.com/ticket/kitchen-display-timeout-001",
+  "module": "F&B",
+  "priority": "nghiêm trọng",
+  "merchant_name": "Nhà hàng lẩu nướng Kichi Kichi",
+  "package_type": "professional"
 }
