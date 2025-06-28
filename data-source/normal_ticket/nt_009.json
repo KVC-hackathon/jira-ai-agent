@@ -7,5 +7,9 @@
   "author": "Bùi Văn Dũng",
   "documentation_related": ["conf-table-time-mgmt-001"],
   "type": "ticket",
-  "url": "https://kiotviet.com/ticket/table-color-bug-001"
+  "url": "https://kiotviet.com/ticket/table-color-bug-001",
+  "module": "F&B",
+  "priority": "trung bình",
+  "merchant_name": "Karaoke Center Music Box",
+  "package_type": "standard"
 }
