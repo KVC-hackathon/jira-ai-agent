@@ -1,11 +1,15 @@
 {
-  "id": "nt-voucher-qr-scan-001",
-  "title": "Quét QR code voucher bị lỗi trên thiết bị có camera kém",
-  "description": "Tablet cũ có camera độ phân giải thấp không thể quét được QR code voucher, đặc biệt là voucher được in trên giấy kém chất lượng. Cần tối ưu thuật toán nhận dạng QR hoặc thêm tùy chọn nhập manual mã voucher như fallback method.",
+  "id": "nt-multi-payment-calculation-001",
+  "title": "Tính toán sai khi thanh toán kết hợp nhiều phương thức",
+  "description": "Khi khách thanh toán bằng 3 phương thức: tiền mặt + thẻ + voucher, hệ thống thỉnh thoảng tính sai số tiền còn lại. Ví dụ: Bill 500k, khách trả 200k tiền mặt + 150k thẻ + voucher 100k = 450k, nhưng hệ thống vẫn báo thiếu 100k. Phải cancel và tính lại từ đầu, gây delay trong thanh toán.",
   "status": "open",
-  "created_at": "2023-11-20T13:40:00Z",
-  "author": "Vũ Thị Hồng",
-  "documentation_related": ["conf-voucher-payment-001"],
+  "created_at": "2023-12-18T13:25:00Z",
+  "author": "Võ Thị Thanh Loan",
+  "documentation_related": ["conf-multi-payment-001"],
   "type": "ticket",
-  "url": "https://kiotviet.com/ticket/voucher-qr-scan-001"
+  "url": "https://kiotviet.com/ticket/multi-payment-calculation-001",
+  "module": "Thanh toán",
+  "priority": "cao",
+  "merchant_name": "Trung tâm thương mại Landmark 81",
+  "package_type": "enterprise"
 }
