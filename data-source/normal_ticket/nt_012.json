@@ -7,5 +7,9 @@
   "author": "Lê Thị Hương",
   "documentation_related": ["conf-combo-upselling-001"],
   "type": "ticket",
-  "url": "https://kiotviet.com/ticket/combo-pricing-error-001"
+  "url": "https://kiotviet.com/ticket/combo-pricing-error-001",
+  "module": "F&B",
+  "priority": "cao",
+  "merchant_name": "Chuỗi burger King BBQ",
+  "package_type": "standard"
 }
