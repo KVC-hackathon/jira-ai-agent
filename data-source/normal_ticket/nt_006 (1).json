@@ -7,5 +7,9 @@
   "author": "Vũ Thị Hồng",
   "documentation_related": ["conf-voucher-payment-001"],
   "type": "ticket",
-  "url": "https://kiotviet.com/ticket/voucher-qr-scan-001"
+  "url": "https://kiotviet.com/ticket/voucher-qr-scan-001",
+  "module": "Thanh toán",
+  "priority": "trung bình",
+  "merchant_name": "Hệ thống siêu thị Big C",
+  "package_type": "enterprise"
 }
