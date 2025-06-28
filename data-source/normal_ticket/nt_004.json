@@ -7,5 +7,9 @@
   "author": "Phạm Thị Mai",
   "documentation_related": ["conf-fnb-preorder-001"],
   "type": "ticket",
-  "url": "https://kiotviet.com/ticket/preorder-notification-001"
+  "url": "https://kiotviet.com/ticket/preorder-notification-001",
+  "module": "F&B",
+  "priority": "cao",
+  "merchant_name": "Nhà hàng tiệc cưới Riverside",
+  "package_type": "professional"
 }
