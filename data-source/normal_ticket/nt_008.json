@@ -7,5 +7,9 @@
   "author": "Đặng Thị Lan",
   "documentation_related": ["conf-tracking-audit-001"],
   "type": "ticket",
-  "url": "https://kiotviet.com/ticket/audit-trail-missing-001"
+  "url": "https://kiotviet.com/ticket/audit-trail-missing-001",
+  "module": "POS",
+  "priority": "cao",
+  "merchant_name": "Chuỗi nhà hàng Pizza Hut",
+  "package_type": "enterprise"
 }
