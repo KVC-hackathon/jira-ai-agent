@@ -1,11 +1,15 @@
 {
-  "id": "nt-kitchen-display-timeout-001",
-  "title": "Kitchen Display System bị timeout khi có quá nhiều đơn hàng",
-  "description": "Trong giờ cao điểm với hơn 50 đơn hàng đồng thời, màn hình Kitchen Display bị lag và đôi khi crash. Các đơn mới không hiển thị kịp thời ảnh hưởng đến quy trình bếp. Cần tối ưu performance và implement pagination hoặc virtual scrolling cho danh sách đơn hàng.",
-  "status": "high",
-  "created_at": "2023-11-22T15:55:00Z",
-  "author": "Hoàng Minh Tuấn",
-  "documentation_related": ["conf-kitchen-display-001"],
+  "id": "nt-customer-display-freeze-001",
+  "title": "Màn hình hiển thị khách hàng bị đơ khi tính tiền lâu",
+  "description": "Màn hình LCD hiển thị cho khách hàng (customer facing display) bị freeze khi đơn hàng có quá nhiều items (>20 món) hoặc có nhiều khuyến mãi phức tạp. Khách hàng không thể theo dõi được quá trình tính tiền và tổng số tiền phải trả. Ảnh hưởng đến trải nghiệm khách hàng và tính minh bạch.",
+  "status": "open",
+  "created_at": "2023-12-16T11:45:00Z",
+  "author": "Trương Văn Hải",
+  "documentation_related": ["conf-customer-display-001"],
   "type": "ticket",
-  "url": "https://kiotviet.com/ticket/kitchen-display-timeout-001"
+  "url": "https://kiotviet.com/ticket/customer-display-freeze-001",
+  "module": "POS",
+  "priority": "trung bình",
+  "merchant_name": "Siêu thị MM Mega Market",
+  "package_type": "professional"
 }
