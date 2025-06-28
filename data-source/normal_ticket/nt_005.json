@@ -7,5 +7,9 @@
   "author": "Ngô Văn Thành",
   "documentation_related": ["conf-promotion-smart-001"],
   "type": "ticket",
-  "url": "https://kiotviet.com/ticket/upselling-not-working-001"
+  "url": "https://kiotviet.com/ticket/upselling-not-working-001",
+  "module": "Khuyến mãi",
+  "priority": "trung bình",
+  "merchant_name": "Chuỗi cafe The Coffee House",
+  "package_type": "enterprise"
 }
