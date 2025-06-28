@@ -7,5 +7,9 @@
   "author": "Lý Thị Nga",
   "documentation_related": ["conf-takeaway-labeling-001"],
   "type": "ticket",
-  "url": "https://kiotviet.com/ticket/label-printer-jam-001"
+  "url": "https://kiotviet.com/ticket/label-printer-jam-001",
+  "module": "F&B",
+  "priority": "cao",
+  "merchant_name": "Chuỗi fastfood Lotteria",
+  "package_type": "professional"
 }
