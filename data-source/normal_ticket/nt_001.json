@@ -7,5 +7,9 @@
   "author": "Nguyễn Minh Đức",
   "documentation_related": ["conf-fnb-permission-001"],
   "type": "ticket",
-  "url": "https://kiotviet.com/ticket/fnb-permission-bug-001"
+  "url": "https://kiotviet.com/ticket/fnb-permission-bug-001",
+  "module": "F&B",
+  "priority": "cao",
+  "merchant_name": "Nhà hàng Lotus Garden",
+  "package_type": "professional"
 }
