@@ -7,5 +7,9 @@
   "author": "Trần Thị Linh",
   "documentation_related": ["conf-fnb-split-merge-001"],
   "type": "ticket",
-  "url": "https://kiotviet.com/ticket/table-merge-failed-001"
+  "url": "https://kiotviet.com/ticket/table-merge-failed-001",
+  "module": "F&B",
+  "priority": "trung bình",
+  "merchant_name": "Nhà hàng Á Đông Palace",
+  "package_type": "professional"
 }
