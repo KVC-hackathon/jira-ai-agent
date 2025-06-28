@@ -1,9 +1,14 @@
 {
   "id": "fr-fnb-split-merge-001", 
-  "title": "Đề xuất phần quyền nhân viên tách ghép đơn/bàn",
+  "title": "Đề xuất phân quyền nhân viên tách ghép đơn/bàn",
   "description": "Triển khai tính năng cho phép nhân viên có quyền tách một đơn hàng thành nhiều đơn nhỏ hoặc ghép nhiều đơn thành một đơn lớn. Điều này rất cần thiết khi khách hàng yêu cầu tách bill riêng cho từng người, hoặc ghép các bàn nhỏ thành tiệc lớn. Cần có log đầy đủ để audit và kiểm soát quyền hạn của từng nhân viên.",
   "summary": "Cho phép nhân viên tách/ghép đơn hàng với phân quyền phù hợp",
   "status": "open",
   "created_at": "2023-11-07T14:15:00Z",
-  "author": "Trần Thị Linh"
+  "author": "Trần Thị Linh",
+  "module": "F&B",
+  "priority": "cao",
+  "merchant_name": "Nhà hàng buffet Seoul Garden",
+  "package_type": "enterprise",
+  "impact_scope": "đơn_chi_nhánh"
 }
