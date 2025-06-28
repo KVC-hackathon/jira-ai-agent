@@ -5,5 +5,10 @@
   "summary": "Dashboard báo cáo hiệu suất bếp theo thời gian thực",
   "status": "open",
   "created_at": "2023-11-17T15:10:00Z",
-  "author": "Hoàng Minh Tuấn"
+  "author": "Hoàng Minh Tuấn",
+  "module": "F&B",
+  "priority": "trung bình",
+  "merchant_name": "Nhà hàng lẩu nướng Kichi Kichi",
+  "package_type": "professional",
+  "impact_scope": "đơn_chi_nhánh"
 }
