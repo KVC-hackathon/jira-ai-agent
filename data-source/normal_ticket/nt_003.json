@@ -7,5 +7,9 @@
   "author": "Lê Văn Hưng",
   "documentation_related": ["conf-fnb-shift-end-001"],
   "type": "ticket",
-  "url": "https://kiotviet.com/ticket/billiards-shift-error-001"
+  "url": "https://kiotviet.com/ticket/billiards-shift-error-001",
+  "module": "F&B",
+  "priority": "cao",
+  "merchant_name": "Billiards Club Champion",
+  "package_type": "standard"
 }
