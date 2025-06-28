@@ -7,5 +7,9 @@
   "author": "Hoàng Minh Tuấn",
   "documentation_related": ["conf-kitchen-display-001"],
   "type": "ticket",
-  "url": "https://kiotviet.com/ticket/kitchen-report-inaccurate-001"
+  "url": "https://kiotviet.com/ticket/kitchen-report-inaccurate-001",
+  "module": "Báo cáo",
+  "priority": "trung bình",
+  "merchant_name": "Nhà hàng cao cấp L'Usine",
+  "package_type": "professional"
 }
