@@ -7,5 +7,9 @@
   "author": "Trần Thị Linh",
   "documentation_related": ["conf-fnb-split-merge-001"],
   "type": "ticket",
-  "url": "https://kiotviet.com/ticket/split-bill-error-001"
+  "url": "https://kiotviet.com/ticket/split-bill-error-001",
+  "module": "F&B",
+  "priority": "nghiêm trọng",
+  "merchant_name": "Nhà hàng buffet Seoul Garden",
+  "package_type": "enterprise"
 }
